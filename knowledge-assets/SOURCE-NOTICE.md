@@ -8,5 +8,5 @@ Creative Commons Attribution ShareAlike 4 International
 =======
 Welcome to our library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world. Google Fonts Knowledge enables designers and developers of all skill sets to choose and use type with purpose.
 
-Source snapshot: 47d54ca1ebb14fd864695f1d39dc734f39017c33
+Source snapshot: e7db6ca603fd4862010383ff17ffd6cc4ffac1c0
 OpenShelf displays original excerpts and thumbnails in a directory linking to Google Fonts. Article bodies are not reproduced. Thumbnails are scaled for display; source files and metadata are unchanged.
